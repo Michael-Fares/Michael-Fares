@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+I'm Michael Fares!
 
 # 💫About Me :
-Hi! I'm Michael Fares. I'm an award winning educator turned frontend developer.  I'm skilled in HTML, CSS, Javascript, React, Redux, Node, Express, and RESTful APIs, and passionate about bringing great ideas to simple visual reality through code.
+I'm an award winning educator turned frontend developer.  I'm skilled in HTML, CSS, Javascript, React, Redux, Node, Express, and RESTful APIs, and passionate about bringing great ideas to simple visual reality through code.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealmjfares) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-fares) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@michael-fares) 
