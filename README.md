@@ -2,7 +2,9 @@
 I'm Michael Fares!
 
 # 💫About Me :
-I'm an award winning educator turned frontend developer.  I'm skilled in HTML, CSS, Javascript, React, Redux, Node, Express, and RESTful APIs, and passionate about bringing great ideas to simple visual reality through code.
+I'm an award winning educator turned frontend developer.  I'm work with accross the full-stack in HTML, CSS, Javascript, React, Redux, Node, Express, and RESTful APIs, and I'm passionate about bringing great ideas to simple visual reality through code.
+
+I'm currently combining my background in education with my coding skills as a software developer at Zollege, a digital learning company whose motto is "Freedom Through Education" a motto I wholeheartly agree with!
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealmjfares) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-fares) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@michael-fares) 
