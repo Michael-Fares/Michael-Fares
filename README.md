@@ -2,7 +2,7 @@
 I'm Michael Fares!
 
 # 💫About Me :
-I'm an award winning educator turned frontend developer from Houston, TX.  I'm work with accross the full-stack in HTML, CSS, Javascript, React, Redux, Node, Express, and RESTful APIs, and I'm passionate about bringing great ideas to simple visual reality through code.
+I'm an award winning educator turned frontend developer from Houston, TX.  I work accross the full-stack in HTML, CSS, Javascript, React, Redux, Node, Express, and RESTful APIs, and I'm passionate about bringing great ideas to simple visual reality through code.
 
 I'm currently combining my background in education with my coding skills as a software developer at Zollege, a digital learning company in Austin, TX whose motto is "Freedom Through Education" a motto I wholeheartly agree with!
 
